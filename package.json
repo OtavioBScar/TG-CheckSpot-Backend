@@ -1,0 +1,9 @@
+{
+  "name": "nodeapi_server",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
